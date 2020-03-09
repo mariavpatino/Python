@@ -2,7 +2,7 @@ In this README you will find the result of the two python scripts created to ana
 
 ## PyBank:
 
-Python script for analyzing the financial records a company. The set of financial data is [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`/
+Python script for analyzing the financial records a company. The set of financial data is [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`
  
 ### Results:
 
