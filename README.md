@@ -30,6 +30,7 @@ Python script for analyzing the financial records a company. The set of financia
 
 * In addition, the script export a text file with the results.
 <br>
+
 ## PyPoll
 
 Python script to help a small, rural town modernize its vote-counting process. Set of poll data  [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. The Python script analyzes the votes and calculates each of the following:
